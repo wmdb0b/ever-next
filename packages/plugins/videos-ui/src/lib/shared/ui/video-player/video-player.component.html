@@ -1,9 +1,0 @@
-<div class="video-player">
-	@if(src) {
-	<video #video controlsList="nodownload" [controls]="controls">
-		<source [src]="src" type="video/mp4" />
-	</video>
-	} @else {
-	<div class="no-video">{{ 'PLUGIN.VIDEO.NO_VIDEO' | translate }}</div>
-	}
-</div>

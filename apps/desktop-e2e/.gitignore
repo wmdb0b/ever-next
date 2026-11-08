@@ -1,3 +1,0 @@
-# Playwright artifacts if run with a custom output dir inside the project (the default run dir is dist/desktop-e2e)
-/test-results/
-/playwright-report/

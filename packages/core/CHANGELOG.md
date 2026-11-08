@@ -1,3 +1,0 @@
-# @gauzy/core
-
-## [Unreleased]
