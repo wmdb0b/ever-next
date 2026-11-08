@@ -1,1 +1,0 @@
-export * from './contact-action/contact-action.component';

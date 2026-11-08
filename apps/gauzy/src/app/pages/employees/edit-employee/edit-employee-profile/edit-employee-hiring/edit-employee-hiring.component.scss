@@ -1,7 +1,0 @@
-@use '@shared/employee-tab-panel' as *;
-
-:host {
-  @include employee-tab-host;
-}
-
-@include employee-tab-panel;
